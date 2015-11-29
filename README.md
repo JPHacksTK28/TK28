@@ -6,11 +6,11 @@ Clothing Recommenderは、ユーザーの予定とその日の気温に合わせ
 朝起きたときアプリにその日の予定を入力すると、以下のようにその日着ていくべき服が推薦される。  
 なお、気温はアプリケーションがWebから取得するため、ユーザーが指定する必要は無い。  
 
-* 最高気温10度の日に博物館に行くときの服の例
-[Museum10](screenshot/Museum10.png)
+* 最高気温10度の日に博物館に行くときの服の例  
+![Museum10](screenshot/Museum10.png)
 
-* 最高気温25度の日に博物館に行くときの服の例
-[MeetingFriends](screenshot/MeetingFriends25.png)
+* 最高気温25度の日に博物館に行くときの服の例  
+![MeetingFriends](screenshot/MeetingFriends25.png)
 
 ## 使い方
 [動画](https://youtu.be/hI1ajJ7-dfk)
