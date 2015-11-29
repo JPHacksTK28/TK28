@@ -48,7 +48,7 @@ Clothing Recommenderは、ユーザーの予定とその日の気温に合わせ
 気温も同時に考慮して服を推薦してくれるため「暖かい部屋で服を着て、いざ出発してみたら意外と寒かった！」といった経験を減らすことができる。  
 
 #### 先行研究や既存の製品との比較
-「予定に応じて推薦を行う」アプリケーションは、調査した限り他に存在しない。  
+「予定に応じて推薦を行うアプリケーション」は、調査した限り他に存在しない。  
 以下に類似製品と先行研究を示す。  
 
 * [Style Casters](http://techcrunch.com/2009/10/06/geo-fashion-comes-to-the-iphone-with-stylecasters-clothing-recommendation-app)  
