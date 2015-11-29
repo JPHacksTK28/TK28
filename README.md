@@ -51,9 +51,9 @@ Clothing Recommenderは、ユーザーの予定とその日の気温に合わせ
 「予定に応じて推薦を行う」アプリケーションは、調査した限り他に存在しない。  
 以下に類似製品と先行研究を示す。  
 
-* [Style Casters](http://techcrunch.com/2009/10/06/geo-fashion-comes-to-the-iphone-with-stylecasters-clothing-recommendation-app)
+* [Style Casters](http://techcrunch.com/2009/10/06/geo-fashion-comes-to-the-iphone-with-stylecasters-clothing-recommendation-app)  
 その日の天気に合わせて服の推薦を行う。恐らく予定に応じた推薦は行っていない。
-* [Magic Closet](http://www.lv-nus.org/papers/2012/magic_closet-MM12.pdf)
+* [Magic Closet](http://www.lv-nus.org/papers/2012/magic_closet-MM12.pdf)  
 予定に合わせて全身の服のセットを推薦する。内部で姿勢推定などを用いているためシステムとして非常に大規模であり、ハッカソン期間中に同等のものを作ることはまず不可能であった。学術研究としてのみ存在し、アプリケーションとして公開されているものではない。
 
 #### ハッカソンで開発した独自機能・技術
