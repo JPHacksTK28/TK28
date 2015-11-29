@@ -123,11 +123,11 @@ Clothing Recommenderは、ユーザーの予定とその日の気温に合わせ
 * 決定木回帰モデルの学習データとして[ClothingAttributeDataset](http://web.stanford.edu/~hchen2/datasets.html#clothingattributedataset)を用いた。
 
 #### フレームワーク・ライブラリ・モジュール
-* [scikit-image](http://scikit-image.org/)
+* [scikit-image](http://scikit-image.org/)  
 画像のグレースケール化などの汎用的な処理を行ったり、HoG(Histogram of Oriented Gradients)などの代表的な特徴量を抽出したりすることが可能である。
 今回はLBP特徴量を抽出することと、LPB特徴量を抽出する前の処理として服画像の輝度の正規化に利用した。
 
-* [scikit-learn](http://scikit-learn.org/)
+* [scikit-learn](http://scikit-learn.org/)  
 決定木回帰モデルやKNNの他にもさまざまな機械学習アルゴリズムが実装されている。
 
 
