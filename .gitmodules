@@ -1,6 +1,6 @@
 [submodule "ml"]
 	path = ml
-	url = git@github.com:IshitaTakeshi/ClotheingRecommenderML.git
+	url = git@github.com:IshitaTakeshi/ClothingRecommenderML.git
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/ashi-psn/ClothingRecommender4Android
